@@ -1,0 +1,10 @@
+.env
+*.swp
+__pycache__
+.python-version
+.aws
+.pytest_cache
+.vscode
+.cache
+src/udpipe/data/da
+rows.json
